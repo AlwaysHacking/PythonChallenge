@@ -1,8 +1,10 @@
 # PythonChallenge
 :key: Python3 solutions of puzzles from pythonchallenge.com
 
-:unlock: Have fun with these puzzles , use Python3 definitely.:yum:
+Have fun with these puzzles , use Python3 definitely.:yum:
 
 |Level|Add Date|Need to Know|
 |:---:|--------|------------|
-|[01](level_01.py)|2016/04/18|The usage of maketrans, it's no longer supported by string in Python3, just use str.maketrans|
+|[01](level_01.py)|2016/04/18|The usage of maketrans(), it's no longer supported by string in Python3, just use str.maketrans() or bytes.maketrans()|
+|[02](level_02.py)|2016/04/19|The usage of filter() and lambda|
+|[03](level_03.py)|2016/04/19|How to use regular expressions and what can decode() do|
