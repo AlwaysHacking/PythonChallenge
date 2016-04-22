@@ -9,3 +9,4 @@ Have fun with these puzzles , use Python3 definitely.:yum:
 |[02](level_02.py)|2016/04/19|The usage of filter() and lambda|
 |[03](level_03.py)|2016/04/19|How to use regular expressions and what can decode() do|
 |[04](level_04.py)|2016/04/21|The usage of re.search and re.compile|
+|[05](level_05.py)|2016/04/22|The usage of pickle, and try to use pprint|
